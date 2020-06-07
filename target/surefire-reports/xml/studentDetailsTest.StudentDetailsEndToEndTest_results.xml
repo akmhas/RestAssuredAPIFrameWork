@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="API Regression Test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.340">
+  <properties />
+  
+  
+            <testcase name="studentdetailsEndToEndTest" time="2.340" classname="studentDetailsTest.StudentDetailsEndToEndTest" />
+      
+</testsuite>

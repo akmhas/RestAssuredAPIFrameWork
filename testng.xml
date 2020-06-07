@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="API Testing ">
+
+	<test name="API Regression Test">
+		<classes>
+			<class name="studentDetailsTest.StudentDetailsPostTest"></class>
+			<class name="studentDetailsTest.StudentDetailsGetTest"></class>
+			<class name="studentDetailsTest.StudentDetailsEndToEndTest"></class>
+			
+		</classes>
+	</test>
+</suite>

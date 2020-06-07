@@ -1,0 +1,11 @@
+domain\studentDetailsGet\Data.class
+domain\studentDetailsDelete\StudentDetailsAfterDeleteGetResponse.class
+helpers\APIResources.class
+helpers\EndPoint.class
+helpers\BaseTests.class
+helpers\Utils.class
+domain\studentDetailsPost\StudentDetailsPostResponse.class
+helpers\LoadData.class
+domain\studentDetailsGet\StudentDetailsGetResponse.class
+domain\studentDetailsDelete\StudentDetailsDeleteResponse.class
+domain\studentDetailsPost\StudentDetailsPostRequest.class
